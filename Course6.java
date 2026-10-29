@@ -9,7 +9,6 @@ public class Course6 {
         totalUniversityStudents += enrolledStudents;
     }
 
-    // Getters
     public String getCourseName() { return courseName; }
     public int getEnrolledStudents() { return enrolledStudents; }
     public static int getTotalUniversityStudents() { return totalUniversityStudents; }
