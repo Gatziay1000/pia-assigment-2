@@ -3,7 +3,6 @@ public class Course5 {
     private int enrolledStudents;
     private static int totalUniversityStudents = 0;
 
-    // Constructor
     public Course5(String courseName, int enrolledStudents) {
         this.courseName = courseName;
         this.enrolledStudents = enrolledStudents;
